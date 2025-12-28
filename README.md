@@ -38,7 +38,7 @@ with optional proxy support.
 ```
 
 ms-email-checker/
-├── mscheck.py      # Main script
+├── ms_check.py      # Main script
 ├── install.sh      # One-command installer
 ├── README.md       # Documentation
 
@@ -79,7 +79,7 @@ source mscheck/bin/activate
 
 Run the script:
 ```
-python mscheck.py
+python ms_check.py
 ```
 ---
 
